@@ -1,0 +1,16 @@
+#!/bin/cat 
+
+index.cat
+:Well duh !This is the file in question.
+
+docs/
+# General location for all documentation
+
+info/
+# Everything that is Not a Document. I.E. IN-FORMATION _about this project _itself
+# Sorry for this comment but you, Reader, suck at Math.
+
+library/
+# This is the META-information location... This has a wel defined structure
+# Yes. It keeps info in the Object oriented Like way.. Nevermind me
+:meta?? links? -to $/docs; -to $/info; @.

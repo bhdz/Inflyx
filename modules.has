@@ -1,0 +1,40 @@
+#!/bin/cat
+
+#
+# This is the {Description} of the modules. Directory.
+#
+
+#
+# Directives:
+# 
+: used Languages? * Python + js + c!
+:: This? * Charma[language module]!
+
+#
+# Yes, We need those languages for Great Purposes and Inner Enlightenment.
+#
+# &proto-language: here, Ego
+#
+# &Bullshit I can do it. I can _manage_ this project. Just watch it grow on Req-
+#   uests. Replies
+
+# I need Python 'cus it's a glue and a great web platform. I _need_ .a: `site! -
+#   directory
+# I also _need_ Python for a _package_ that deals with numpy and builds statist-
+#   ics and sh1t. I need to SCREW Python on ACADEMIC hedsz
+*.py
+
+# I need Javascript and JSON for the Forementioned Site
+*.js
+*.json
+
+*.c
+*.h
+
+# Blabla! I cannot deal with Monad--o-logy right now My head is Burnin' 
+: @ / Language / Usage: `_1.dev.log``not! I _hate_ Monads and I love the Rest of the Haskel
+*.hs
+
+# Blabla! LISP modules
+: @ / Language / Usage: `_0.dev.log``not! I CANNOT be LEARNING LISP right now. S1tes & W3b
+*.

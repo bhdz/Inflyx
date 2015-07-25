@@ -1,0 +1,34 @@
+#!/bin/cat
+
+# \n
+# delimiter of Structure
+#   <=>
+#       Every
+# &just kidding. 
+#   I always have a good Sense of Humour that is Somewhat Met with\
+#   Giggling and General Looks of Dis-aproval 'cus malloc+free+realloc\
+#::~
+
+#
+#
+# &this-file.structure::
+#   SQL like description
+#
+WITH {resources}
+SHOW
+    docs/basic.idea.napkin_model@@11749669_10204780390614052_107294643_n.jpg
+END
+
+# Haha! Just kidding
+with {resources}
+    .show
+        `docs/basic.idea.napkin_model@@11749669_10204780390614052_107294643_n.jpg!
+    .end # show
+without
+
+# Every definition here in this file describes the File in question.
+# Let's add another language
+ON {resources}
+    *SM1^2LE::
+        Resources / Online / Ded Language here
+OFF
